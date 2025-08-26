@@ -8,13 +8,12 @@ git add .: agrega todos los archivos al stage
 git commit -am "mensaje": add y commit al mismo tiempo
 git remote add origin https://... : cargar carpeta en github, comando disponible en github
 git push origin master: cargar carchivos en github por primera vez
+git pull origin master: traer archivos de github por primera vez
 
 Editor Wim
 git commit --amend: entrar al editor Wim de Git
 :i permite editar el texto, con suprimir y luego escribiendo
 esc: sale de la edicion
 :wq cierra wim
-
-xdd github
 
 
