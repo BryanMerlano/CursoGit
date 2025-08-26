@@ -15,4 +15,6 @@ git commit --amend: entrar al editor Wim de Git
 esc: sale de la edicion
 :wq cierra wim
 
+xdd github
+
 
